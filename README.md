@@ -10,7 +10,7 @@ Most beginner blog applications either lack full CRUD (Create, Read, Update, Del
 Setup & Usage Instructions
 
 Clone the Repo
-git clone https://github.com/feysal51/code-challenge--3
+git clone https://github.com/feysalabdi51/code-challenge--3
 cd code-challenge--3
 npm install -g json-server@0.17.4
 json-server db.json
